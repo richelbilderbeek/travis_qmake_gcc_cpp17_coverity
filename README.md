@@ -18,6 +18,7 @@ The goal of this project is to have a clean Travis CI build, with specs:
  * C++ version: `C++17`
  * Libraries: `STL` only
  * Code coverage: none
+ * Static code analys: Coverity Scan
  * Source: one single file, `main.cpp`
 
 More complex builds:
