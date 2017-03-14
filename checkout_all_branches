@@ -1,0 +1,4 @@
+#!/bin/bash
+
+# Script to checkout all the branches of the team
+git checkout -b coverity_scan origin/coverity_scan
